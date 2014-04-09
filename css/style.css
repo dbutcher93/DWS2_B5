@@ -1,16 +1,17 @@
-.top-bar{
-	background: url(../img/nav.png) #000 top center no-repeat;
-	height: 60px;
+.top {
+	background: url(../img/poster4.jpg) center top no-repeat;
 }
 
-.logo img {
-	width: 100%;
+.top h1 {
+	font-size: 3.75em;
+	text-align: center;
+	margin: 0 auto;
+	color: #fff;
+	padding-top: 20%;
+	text-shadow: 2px 2px 7px #000;
+
 }
 
-.orbit-container img {
-	width: 100%;
-}
-
-.orbitbg{
+/*.orbitbg{
 	background-color: #000;
-}
+}*/
