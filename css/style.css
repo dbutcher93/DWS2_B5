@@ -24,7 +24,7 @@ nav {
 .top li {
 	display: inline;
 	border:2px solid #fff;
-	border-radius:15px;
+	border-radius:10px;
 	background-color: #000;
 	padding: 1%;
 	text-align: center;
@@ -45,3 +45,21 @@ nav {
 /*.orbitbg{
 	background-color: #000;
 }*/
+
+
+@media only screen and (min-width: 64.063em) and (max-width: 90em) { 
+	.top {background: url(../img/poster4-lrg.jpg) center top no-repeat;}
+	nav {padding-top: 5%;}
+
+} 
+
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { 
+	.top {background: url(../img/poster4-med.jpg) center top no-repeat;}
+	nav {padding-top: 5%;}
+}
+
+@media only screen and (max-width: 40em) { 
+	.top {background: url(../img/poster4-sm.jpg) center top no-repeat;}
+	nav {display: none;}
+	.top h1 {font-size: 2em;}
+}
