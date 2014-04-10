@@ -42,10 +42,15 @@ nav {
 	color: #000;
 }
 
+.small-6 {
+	text-align: center;
+	padding-top:5%;
+}
+
 /*.orbitbg{
 	background-color: #000;
-}*/
-
+}
+*/
 
 @media only screen and (min-width: 64.063em) and (max-width: 90em) { 
 	.top {background: url(../img/poster4-lrg.jpg) center top no-repeat;}
