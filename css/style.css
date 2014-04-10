@@ -105,4 +105,4 @@ form .button{
 	.top {background: url(none) #000 center top no-repeat;}
 	nav {display: none;}
 	.top h1 {font-size: 2em;}
-}
+	footer li {display: list-item; list-style-type: none;}
