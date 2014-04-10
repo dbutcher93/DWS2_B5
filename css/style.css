@@ -12,16 +12,16 @@
 
 }
 
-nav {
+nav, footer {
 	text-align: center;
 	padding: 10% 5% 1% 5%;
 }
 
-.top a {
+.top a, footer a {
 	color: #fff;
 }
 
-.top li {
+.top li, footer li {
 	display: inline;
 	border:2px solid #fff;
 	border-radius:10px;
@@ -32,13 +32,13 @@ nav {
 
 }
 
-.top li:hover {
+.top li:hover, footer li:hover {
 	background-color: #fff;
 	color:#000;
 	border-color: #000;
 }
 
-.top a:hover {
+.top a:hover, footer li:hover {
 	color: #000;
 }
 
