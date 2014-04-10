@@ -81,6 +81,10 @@ form .button{
 
 }
 
+.accordian .panel1, .accordian .panel2 {
+	background-color: #000;
+}
+
 
 /*.orbitbg{
 	background-color: #000;
