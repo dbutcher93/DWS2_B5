@@ -28,7 +28,7 @@ nav {
 	background-color: #000;
 	padding: 1%;
 	text-align: center;
-	margin: 10%;
+	margin: 5%;
 
 }
 
@@ -81,7 +81,7 @@ form .button{
 
 }
 
-.accordian .panel1, .accordian .panel2 {
+#panel1,#panel2 {
 	background-color: #000;
 }
 
@@ -90,6 +90,7 @@ form .button{
 	background-color: #000;
 }
 */
+
 
 @media only screen and (min-width: 64.063em) and (max-width: 90em) { 
 	.top {background: url(../img/poster4-lrg.jpg) center top no-repeat;}
