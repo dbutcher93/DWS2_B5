@@ -53,9 +53,34 @@ nav {
 	padding-top:5%;
 }
 
-.pricing-table {
+.third h1{
+	text-align: center;
+	color: #fff;
+	padding-bottom: 3%;
+}
+
+.pricing-table  {
 	background-color: #fff;
 }
+
+.pricing-table .title, .pricing-table .button {
+	background-color: #ff0000;
+}
+
+.pricing-table .price {
+	background-color: #000;
+	color: #fff;
+}
+
+form label {
+	color: #fff;
+}
+
+form .button{
+	background-color: #ff0000;
+
+}
+
 
 /*.orbitbg{
 	background-color: #000;
@@ -74,7 +99,7 @@ nav {
 }
 
 @media only screen and (max-width: 40em) { 
-	.top {background: url(../img/poster4-sm.jpg) center top no-repeat;}
+	.top {background: url(none) #000 center top no-repeat;}
 	nav {display: none;}
 	.top h1 {font-size: 2em;}
 }
