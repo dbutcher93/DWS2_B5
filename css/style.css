@@ -85,11 +85,9 @@ form .button{
 	background-color: #000;
 }
 
-
-/*.orbitbg{
-	background-color: #000;
+.reveal-modal .button {
+	background-color: #ff0000;
 }
-*/
 
 
 @media only screen and (min-width: 64.063em) and (max-width: 90em) { 
